@@ -11,7 +11,7 @@ Riešenie 2. časti projektu z predmetu INC (Návrh číslicových systémů) na
 Projekt bol vytvorený výlučne na vzdelávacie účely.
 
 ## Hodnotenie
-- Získané body: **? / ?**
+- Získané body: **16 / 20**
 
 ---
 
