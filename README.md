@@ -24,7 +24,6 @@ Implementovat navržený RTL obvod přijímače UART z první části projektu v
 ### Soubory
 - `uart_rx.vhd` – datová cesta (rozhraní entity a architektura).
 - `uart_rx_fsm.vhd` – řídicí konečný automat (FSM).
-- `testbench.vhd` – testovací prostředí.
 
 ### Nástroje
 Projekt využívá open-source nástroje:
